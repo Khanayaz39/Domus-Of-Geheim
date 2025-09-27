@@ -29,7 +29,7 @@ How to Run the Game
 
 1. Clone the repository:
 
-  `git clone https://github.com/<your-username>/domus-of-geheim.git`  
+  `git clone https://github.com/khanayaz39/domus-of-geheim.git`  
   `cd domus-of-geheim`
 
 2. Open the project in Unity (2021.3 LTS).
